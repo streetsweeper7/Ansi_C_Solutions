@@ -1,6 +1,6 @@
 /* Exercise 1-7
  * Authoer: John Banda
- * Desciption: Print the value of EOF
+ * Desciption: Print the value of EOF-
  */
 
 #include <stdio.h>
