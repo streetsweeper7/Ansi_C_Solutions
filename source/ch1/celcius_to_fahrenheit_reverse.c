@@ -1,4 +1,4 @@
-/* Exercise 1-4: Celcius to Fahrenheit Table in Reverse
+/* Exercise 1-5: Celcius to Fahrenheit Table in Reverse
  * Author: John Banda
  * Date: 12/12/2023
  */
